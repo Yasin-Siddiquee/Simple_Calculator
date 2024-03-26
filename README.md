@@ -1,4 +1,5 @@
 A simple calculator interface (Designed to look best in Light mode), 
+
 It includes a text input for expressions,
 A total of 20 buttons, buttons for digits (0-9), 
 Basic arithmetic operations (+, -, *, /, %),
